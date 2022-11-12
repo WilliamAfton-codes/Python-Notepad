@@ -11,6 +11,6 @@ Then type all that you want to write and typpe exit-editor to stop making the fi
 All you need is Python installed, no dependencies!
 
 # Notes
-When giving the file extension, don't type the '.', it will be added _automagically!_
+When giving the file extension, don't type the '.' , it will be added _automagically!_
 
 Thanks for downloading, please star my GitHub!
