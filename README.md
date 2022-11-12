@@ -2,7 +2,7 @@
 Very simple text editor written in Python!
 
 # Usage
-Go to the releases page and download main.py
+Go to the [releases](https://github.com/WilliamAfton-codes/Python-Notepad/releases) page and download main.py
 
 Run the file and enter your desired filename and extension
 
