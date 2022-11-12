@@ -13,4 +13,6 @@ All you need is Python installed, no dependencies!
 # Notes
 When giving the file extension, don't type the '.' , it will be added _automagically!_
 
+If the specified file already exists in the directory, Python-Notepad will start writing from the end of the file and let you know
+
 Thanks for downloading, please star my GitHub!
